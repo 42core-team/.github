@@ -2,13 +2,13 @@
 
 > CORE Game pits coders against coders in a challenging battle to answer the question: "Who can use their units the best and defend their own CORE the longest?
 
-=> 🔥 [https://coregame.de/](https://coregame.de/) 🔥
+=> 🔥 [coregame.de/](https://coregame.de/) 🔥
 
 ## ➡️ How to start with CORE:
 
 > If you are in a competition right now, you got lost. Please go to [coregame.de](https://coregame.de/), sign in, join the competition, create your team & clone the repository that is automatically created for you. This is where you can create your bot.
 
-### _To start developing core / Run it locally on your own:_
+### _To start developing CORE / Run it locally on your own:_
 
 1. Clone the [sandbox](https://github.com/42core-team/sandbox) repo with ssh.
    - The Sandbox simply has all the relevant submodules in one unified development environment.
