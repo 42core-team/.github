@@ -28,6 +28,6 @@
 
 ## ➡️ Core Team 🫶
 
-| [Jonas Götz](https://github.com/orgs/42core-team/people/JonasGoetz01)| [Paul Großmann](https://github.com/orgs/42core-team/people/PaulicStudios) | [Theo Paesch](https://github.com/orgs/42core-team/people/TheoPaesch)  | [Frederick Schubert](https://github.com/orgs/42core-team/people/FreddyMSchubert)| [Jonas Kauker](https://github.com/orgs/42core-team/people/Reptudn)  | [Emil Ebert](https://github.com/orgs/42core-team/people/Peu77)  |
-| ------------- | ------------- |------------- | ---------------  | ------------- | ------------- |
-|<ul><li>DevOps</li><li>Server</li><li>Website</li></ul>| <ul><li>Website</li></ul> | <ul><li>Event management</li></ul> | <ul><li>Connection library</li><li>Game Design</li><li>Game Server</li></ul> | <ul><li>Social Media Manager</li></ul> | <ul><li>Website</li></ul> |
+| [Jonas Götz](https://github.com/JonasGoetz01) | [Theo Paesch](https://github.com/TheoPaesch) | [Frederick Schubert](https://github.com/FreddyMSchubert) | [Florian Fischer](https://github.com/flomero) | [Paul Großmann](https://github.com/PaulicStudios) | [Jonas Kauker](https://github.com/Reptudn)  | [Anakin Pregitzer](https://github.com/4n4k1n) | [Christopher Uhlig](https://github.com/cuhlig42) | [Emil Ebert](https://github.com/Peu77) | [Konrad Mühlbauer](https://github.com/Komu211) | [Johannes Moritz](https://github.com/jojomo96) |
+| ----------------------------- | --------------------------- |---------------- | ---------  | ----------------- | -------------- | ------------ | ----------------- | ------- | ------- | ---------------------- |
+| Head of Server and Kubernetes | Event Management and Design | Server and Game | Visualizer | Programs the rest | Wiki and Video | Head of Rush | Head of Balancing | Website | Website | Head of money spending |
