@@ -4,6 +4,14 @@
 
 => 🔥 [coregame.de/](https://coregame.de/) 🔥
 
+<p align="center">
+    <img
+        src="https://github.com/42core-team/.github/blob/main/profile/gameplay_example.gif"
+        alt="CORE Gameplay Example"
+        width="500"
+    />
+</p>
+
 ## ➡️ How to start with CORE:
 
 > If you are in a competition right now, you got lost. Please go to [coregame.de](https://coregame.de/), sign in, join the competition, create your team & clone the repository that is automatically created for you. This is where you can create your bot.
