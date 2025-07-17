@@ -23,7 +23,7 @@
 2. Run make update to initialize & pull the newest versions of all the relevant submodules.
 3. Open the folder in [VSCode](https://code.visualstudio.com/) and open it in the devcontainer with the [devcontainer extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
 4. Open up a seperate terminal & run `make visualizer`, keep this terminal open for as long as you want the visualizer to be accessible.
-5. Run `make debug` to get started.
+5. Run `make run` to get started, use `make debug` if you want to see the other bots & the servers output including the terminal visualizer.
 6. __We'd love issues or pull requests from anyone!__ 🙃
 
 ## ➡️ Core Team 🫶
