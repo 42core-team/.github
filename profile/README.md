@@ -28,6 +28,8 @@
 
 ## ➡️ Core Team 🫶
 
-| [Jonas Götz](https://github.com/JonasGoetz01) | [Theo Paesch](https://github.com/TheoPaesch) | [Frederick Schubert](https://github.com/FreddyMSchubert) | [Florian Fischer](https://github.com/flomero) | [Paul Großmann](https://github.com/PaulicStudios) | [Jonas Kauker](https://github.com/Reptudn)  | [Anakin Pregitzer](https://github.com/4n4k1n) | [Christopher Uhlig](https://github.com/cuhlig42) | [Emil Ebert](https://github.com/Peu77) | [Konrad Mühlbauer](https://github.com/Komu211) | [Johannes Moritz](https://github.com/jojomo96) |
-| ----------------------------- | --------------------------- |---------------- | ---------  | ----------------- | -------------- | ------------ | ----------------- | ------- | ------- | ---------------------- |
-| Head of Server and Kubernetes | Event Management and Design | Server and Game | Visualizer | Programs the rest | Wiki and Video | Head of Rush | Head of Balancing | Website | Website | Head of money spending |
+| [Jonas Götz](https://github.com/JonasGoetz01) | [Theo Paesch](https://github.com/TheoPaesch) | [Frederick Schubert](https://github.com/FreddyMSchubert) | [Paul Großmann](https://github.com/PaulicStudios) | [Jonas Kauker](https://github.com/Reptudn)  | [Anakin Pregitzer](https://github.com/4n4k1n)  |
+| :-----------------: | :------------------: | :-------------------------: | :--------------------: | :-------------------: | :----------------------: |
+| Head of funding | Event Management and Design | Server and Game |  Programs the rest | Wiki and Video | Head of Rush  | 
+| **[Christopher Uhlig](https://github.com/cuhlig42)** | **[Emil Ebert](https://github.com/Peu77)** | **[Konrad Mühlbauer](https://github.com/Komu211)** | **[Johannes Moritz](https://github.com/jojomo96)** | **[Florian Fischer](https://github.com/flomero)** |
+| Head of Balancing | Website | Website | Head of DevOps | Know-it-all |
