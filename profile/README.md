@@ -2,7 +2,7 @@
 
 > CORE Game pits coders against coders in a challenging battle to answer the question: "Who can use their units the best and defend their own CORE the longest?
 
-=> 🔥 [coregame.de/](https://coregame.de/) 🔥
+=> 🔥 [coregame.sh/](https://coregame.sh/) 🔥
 
 <p align="center">
     <img
@@ -14,9 +14,9 @@
 
 ## ➡️ How to start with CORE:
 
-> If you are in a competition right now, you got lost. Please go to [coregame.de](https://coregame.de/), sign in, join the competition, create your team & clone the repository that is automatically created for you. This is where you can create your bot.
+> If you are in a competition right now, you got lost. Please go to [coregame.sh](https://coregame.sh/), sign in, join the competition, create your team & clone the repository that is automatically created for you. This is where you can create your bot.
 
-> If you want to help develop Core, clone the [monorepo](https://github.com/42core-team/monorepo) repo for everything gameplay-related or the [website](https://github.com/42core-team/website) for everything related to [coregame.de](https://coregame.de), then follow the steps in the README. 
+> If you want to help develop Core, clone the [monorepo](https://github.com/42core-team/monorepo) repo for everything gameplay-related or the [website](https://github.com/42core-team/website) for everything related to [coregame.sh](https://coregame.sh), then follow the steps in the README. 
 
 __We'd love issues or pull requests from anyone!__ 🙃
 
